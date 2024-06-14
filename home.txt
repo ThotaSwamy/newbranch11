@@ -1,0 +1,4 @@
+#!/bin/bash/sh
+#to see the cpu count
+nproc
+
